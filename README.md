@@ -1,4 +1,4 @@
-# Self-avoiding walks and polygons and the square lattices
+# Self-avoiding walks and polygons on the square lattices
 Series expansions for SAW and SAP problems on the square lattice <pre>
 sqsaw.ser       Number of SAW 
 sqsaw_EE.ser    End-to-end distance of SAW
