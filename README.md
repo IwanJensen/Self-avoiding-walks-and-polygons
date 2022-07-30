@@ -5,5 +5,6 @@ sqsaw_EE.ser    End-to-end distance of SAW
 sqsaw_RG.ser    Radius of gyration of SAW
 sqsaw_MD.ser    Mean monomer distance of SAW
 
-sqsap.ser       Number of SAP
-sqsap_RG.ser    Radius of gyration of SAP
+sqsap_perim.ser   Number of SAP by perimeter
+sqsap_area.ser    Number of SAP by area
+sqsap_RG.ser      Radius of gyration of SAP
